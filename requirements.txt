@@ -1,7 +1,8 @@
-streamlit
 pandas
-matplotlib
-seaborn
-Pillow
+streamlit
 openpyxl
 xlsxwriter
+scikit-learn
+numpy
+Pillow
+
